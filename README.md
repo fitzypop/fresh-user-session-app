@@ -9,7 +9,7 @@ List of basic requirements:
 - [ ] Login Page
 - [ ] Redirect to "user's home page"
 - [ ] Store user information (securly) client side
-- [ ] Integrate With Fauna
+- [ ] Integrate With [FaunaDB](https://fauna.com/)
 
 ### Usage
 
